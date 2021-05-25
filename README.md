@@ -1,2 +1,2 @@
-# Two Worlds Algorithm
+# Two Worlds
 
