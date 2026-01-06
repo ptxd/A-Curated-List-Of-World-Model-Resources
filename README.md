@@ -1,4 +1,4 @@
-# 🌍 Awesome World Models
+# 🌍 World Models
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 > **"The essence of intelligence is the ability to predict the future."**
