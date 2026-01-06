@@ -3,7 +3,7 @@
 
 > **"The essence of intelligence is the ability to predict the future."**
 
-A curated "Zero-to-Hero" roadmap and collection of resources for building **World Models**—AI systems that learn an internal simulation of their environment to reason, plan, and act. This repository covers the evolution from foundational RNN-based models to modern Diffusion and Transformer-based Foundation World Models.
+A curated roadmap and collection of resources for building **World Models**—AI systems that learn an internal simulation of their environment to reason, plan, and act. This repository covers the evolution from foundational RNN-based models to modern Diffusion and Transformer-based Foundation World Models.
 
 
 
